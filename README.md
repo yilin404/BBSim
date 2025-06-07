@@ -30,3 +30,6 @@ To record a custom number of images, add the `--num_images` flag:
 ```bash
 python3 scripts/run_collect_data.py --record --num_images <number_of_images>
 ```
+
+Dataset Format:
+[Ultralytics YOLO](https://docs.ultralytics.com/zh/datasets/detect/)
