@@ -1,0 +1,5 @@
+setup.py
+src/bbsim.egg-info/PKG-INFO
+src/bbsim.egg-info/SOURCES.txt
+src/bbsim.egg-info/dependency_links.txt
+src/bbsim.egg-info/top_level.txt

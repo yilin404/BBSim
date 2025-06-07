@@ -1,0 +1,186 @@
+{
+    "hammer": [],
+    "bottle": [
+        "001_bottle",
+        "005_red-bottle",
+        "006_green-bottle",
+        "151_bottle"
+    ],
+    "plate": [
+        "003_plate"
+    ],
+    "toy_car": [
+        "057_toycars"
+    ],
+    "bowl": [],
+    "tissue": [
+        "133_tissue-box"
+    ],
+    "clock": [
+        "046_alarm-clock"
+    ],
+    "pencil": [
+        "058_markpen",
+        "marker"
+    ],
+    "remote": [
+        "079_remotecontrol"
+    ],
+    "spoon": [],
+    "thermos": [],
+    "can": [
+        "071_cans"
+    ],
+    "marker": [
+        "058_markpen",
+        "pencil"
+    ],
+    "mug": [
+        "039_mug"
+    ],
+    "brush": [],
+    "tape": [],
+    "wallet": [],
+    "toothbrush": [],
+    "snack_box": [],
+    "pot": [],
+    "sneaker": [],
+    "steel_tape": [],
+    "chip_can": [],
+    "drinkbox": [
+        "068_boxdrink"
+    ],
+    "snack_package": [],
+    "slipper": [],
+    "ramen_box": [],
+    "notebook": [
+        "092_notebook"
+    ],
+    "049_shampoo": [],
+    "110_basket": [],
+    "043_book": [],
+    "132_scanner": [],
+    "077_phone": [],
+    "107_storage-box": [
+        "062_plasticbox"
+    ],
+    "078_phonestand": [],
+    "051_candlestick": [],
+    "046_alarm-clock": [
+        "clock"
+    ],
+    "082_smallshovel": [],
+    "105_sauce-can": [],
+    "002_container": [],
+    "041_shoe": [],
+    "050_bell": [],
+    "150_dustbin": [],
+    "099_fan": [],
+    "094_rest": [],
+    "081_playingcards": [],
+    "089_globe": [],
+    "052_dumbbell": [],
+    "115_soap": [],
+    "006_green-bottle": [
+        "001_bottle",
+        "005_red-bottle",
+        "151_bottle",
+        "bottle"
+    ],
+    "057_toycars": [
+        "toy_car"
+    ],
+    "131_cup": [
+        "021_cup",
+        "059_pencup"
+    ],
+    "147_plant-pot": [],
+    "151_bottle": [
+        "001_bottle",
+        "005_red-bottle",
+        "006_green-bottle",
+        "bottle"
+    ],
+    "097_screen": [],
+    "095_glue": [],
+    "048_stapler": [],
+    "007_shoe_box": [],
+    "058_markpen": [
+        "marker",
+        "pencil"
+    ],
+    "071_cans": [
+        "can"
+    ],
+    "093_brush-pen": [],
+    "047_mouse": [],
+    "074_displaystand": [],
+    "053_teanet": [],
+    "075_bread": [],
+    "059_pencup": [
+        "021_cup",
+        "131_cup"
+    ],
+    "101_milk-tea": [],
+    "003_plate": [
+        "plate"
+    ],
+    "001_bottle": [
+        "005_red-bottle",
+        "006_green-bottle",
+        "151_bottle",
+        "bottle"
+    ],
+    "100_seal": [],
+    "084_woodenmallet": [],
+    "063_tabletrashbin": [],
+    "068_boxdrink": [
+        "drinkbox"
+    ],
+    "112_tea-box": [],
+    "116_roller": [],
+    "021_cup": [
+        "059_pencup",
+        "131_cup"
+    ],
+    "092_notebook": [
+        "notebook"
+    ],
+    "005_red-bottle": [
+        "001_bottle",
+        "006_green-bottle",
+        "151_bottle",
+        "bottle"
+    ],
+    "062_plasticbox": [
+        "107_storage-box"
+    ],
+    "133_tissue-box": [
+        "tissue"
+    ],
+    "080_pillbottle": [],
+    "134_microphone": [],
+    "004_fluted-block": [],
+    "091_kettle": [],
+    "086_woodenblock": [],
+    "113_coffee-box": [],
+    "039_mug": [
+        "mug"
+    ],
+    "141_drill": [],
+    "045_sand-clock": [],
+    "040_rack": [],
+    "073_rubikscube": [],
+    "085_gong": [],
+    "090_trophy": [],
+    "087_wateringcan": [],
+    "070_paymentsign": [],
+    "019_coaster": [],
+    "079_remotecontrol": [
+        "remote"
+    ],
+    "076_breadbasket": [],
+    "114_hydrating-oil": [],
+    "072_electronicscale": [],
+    "055_speaker": []
+}

@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: bbsim
+Version: 0.1.0
+Summary: A twin framework for object detection
+Author: Your Name
+Author-email: your.email@example.com
+Requires-Python: >=3.10
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-python
+Dynamic: summary
